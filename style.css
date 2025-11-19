@@ -1,0 +1,25 @@
+header{
+    background-color: brown;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    color: white;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+    position: absolute;
+	top: 0;
+	right: 0;
+	max-width: 35%; 
+	height: auto;
+	object-fit: contain;
+	margin: 0.5rem; 
+	z-index: 10;
+}
+
+.image-principale{
+    max-width: 800px;
+    width: 100%;
+    height: auto;
+}
